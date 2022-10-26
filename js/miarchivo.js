@@ -73,7 +73,7 @@ showConfirmButton: false
 
 });
 });
-a
+
 const btnn = document.getElementById('button');
 
 fetch('https://jsonplaceholder.typicode.com/posts', {
